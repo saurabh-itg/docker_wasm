@@ -1,6 +1,6 @@
 # Prime Number Generator
 
-This Rust program generates prime numbers within a given range using the Sieve of Eratosthenes algorithm.
+This Rust program generates prime numbers within a given range .
 
 ## Usage
 
